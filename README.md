@@ -1,4 +1,4 @@
-# graphs
+# Random graphs
 
 
-Tex source of article: http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mzm&paperid=10853&option_lang=rus
+Text source files for the article: http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mzm&paperid=10853&option_lang=en&option_lang=eng
